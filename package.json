@@ -1,0 +1,15 @@
+{
+  "name": "backbone-list-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for backbone that creates a functional clickable list with item descriptions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GMDIV"
+  },
+  "author": "GMDIV",
+  "license": "ISC"
+}
